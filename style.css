@@ -4,7 +4,7 @@ body {
   color: #191970; /*Warna teks utama (biru gelap) */
 }
 
-kartu-profile {
+foto-profile {
   width: 300px;
   margin: 50px auto; /* 50 px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
@@ -14,10 +14,10 @@ kartu-profile {
 
 }
 
-kartu-profile img {
+fot-profile img {
   width: 150px,
   border-radius 50%; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
-kartu-profile {
+foto-profile {
   text-align:center; /*menengahkan semua text didalam satu kartu */
 }
