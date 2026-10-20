@@ -19,5 +19,5 @@ kartu-profile img {
   border-radius 50%; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 kartu-profile {
-  text-align: center; /*menengahkan semua text didalam satu kartu */
+  text-align:center; /*menengahkan semua text didalam satu kartu */
 }
